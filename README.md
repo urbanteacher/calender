@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-View Tank
+## View Tank
 
 Aspect: Core Functionality  
 Description: A social media calendar application that allows users to create, edit, and manage personal events, follow public calendars, and link public events to personal calendars.
